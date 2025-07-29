@@ -1,7 +1,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-[CreateAssetMenu(fileName = "Faction", menuName = "Faction/Faction Ship List")]
+[CreateAssetMenu(fileName = "Faction", menuName = "Faction/New Factio")]
 public class Factions : ScriptableObject
 {
     [Header("Faction")]
