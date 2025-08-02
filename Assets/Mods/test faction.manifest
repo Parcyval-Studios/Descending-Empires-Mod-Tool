@@ -1,16 +1,16 @@
 ManifestFileVersion: 0
 UnityVersion: 6000.0.42f1
-CRC: 509249066
+CRC: 2202879579
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: fb311fc844409ef562ed07e8ceca7280
+    Hash: 4d4590d379c8710025532c9dba38a19c
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 28182ce433f1757d89e4e79466a330e1
+    Hash: 8170088e84ecd9fabd0a31b624e7aa39
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 977dd67326c1a5ab309db00528d04d83
+    Hash: 52200f1fdaf9ecfd764bc20ac62433cd
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -31,22 +31,16 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 54
   Script: {instanceID: 0}
-- Class: 64
-  Script: {instanceID: 0}
-- Class: 65
-  Script: {instanceID: 0}
 - Class: 114
-  Script: {fileID: 11500000, guid: f6c0be61502bb534f922ebb746851216, type: 3}
+  Script: {fileID: 11500000, guid: fd0d73250ef3930409e6152e9863d677, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: d5a57f767e5e46a458fc5d3c628d0cbb, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: e96cb6065543e43c4a752faaa1468eb1, type: 3}
+  Script: {fileID: 11500000, guid: 65bc70b9081893b49ad373d7dae7615f, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: f9c59a70983bffc4ca57dd8443412b1e, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 65f91dfeedbaaa14f97315ad4ba511b0, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: fd0d73250ef3930409e6152e9863d677, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 213
@@ -55,5 +49,7 @@ SerializeReferenceClassIdentifiers:
 - AssemblyName: Unity.Netcode.Runtime
   ClassName: Unity.Netcode.NetworkVariable`1
 Assets:
-- Assets/Cubes.asset
+- Assets/Test Faction.asset
+- Assets/Test Assets/Imperial light cruiser.FBX
+- Assets/Test Ship.prefab
 Dependencies: []

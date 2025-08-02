@@ -60,7 +60,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
-  - {fileID: 6170640090067860334}
+  - {fileID: 163264524059105254}
   - {fileID: 274261119865618531}
   m_Father: {fileID: 344129212537646361}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -158,7 +158,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d5a57f767e5e46a458fc5d3c628d0cbb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GlobalObjectIdHash: 1488723012
+  GlobalObjectIdHash: 3485160735
   InScenePlacedSourceGlobalObjectIdHash: 0
   AlwaysReplicateAsRoot: 0
   SynchronizeTransform: 1
@@ -260,7 +260,7 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
---- !u!1001 &5920048825820126341
+--- !u!1001 &418466726482161677
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -286,15 +286,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: ef2ff1745d540f349bd58b678bc8675c, type: 3}
       propertyPath: m_LocalRotation.x
-      value: -0
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: ef2ff1745d540f349bd58b678bc8675c, type: 3}
       propertyPath: m_LocalRotation.y
-      value: -0
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: ef2ff1745d540f349bd58b678bc8675c, type: 3}
       propertyPath: m_LocalRotation.z
-      value: -0
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: ef2ff1745d540f349bd58b678bc8675c, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -317,8 +317,8 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ef2ff1745d540f349bd58b678bc8675c, type: 3}
---- !u!4 &6170640090067860334 stripped
+--- !u!4 &163264524059105254 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: ef2ff1745d540f349bd58b678bc8675c, type: 3}
-  m_PrefabInstance: {fileID: 5920048825820126341}
+  m_PrefabInstance: {fileID: 418466726482161677}
   m_PrefabAsset: {fileID: 0}
