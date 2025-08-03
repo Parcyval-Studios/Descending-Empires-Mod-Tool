@@ -30,9 +30,6 @@ public class Factions : ScriptableObject
     public List<Object> Level9Troops;
     public List<Object> Level10Troops;
 
-    [Header("Ground Troops")]
-    public List<Troop> GroundTroops;
-
     [Header("Buildings")]
     public List<Object> Buildings;
 
